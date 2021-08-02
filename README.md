@@ -1,6 +1,6 @@
 # instgramui
 
-A new Flutter project.
+instgram Ui using flutter.
 
 ## Getting Started
 
